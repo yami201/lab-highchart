@@ -5,7 +5,7 @@ import GenreDistributionChart from "./charts/GenreDistributionChart";
 import RatingChart from "./charts/RatingChart";
 import TopHighestRatedMoviesBubbleChart from "./charts/TopHighestRatedMoviesBubbleChart";
 import data from "./assets/data.json";
-import Example from './charts/Exemple';
+import Example from './charts/Example';
 
 const App = () => {
   return <Example />;
